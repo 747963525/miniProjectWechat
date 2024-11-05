@@ -1,0 +1,15 @@
+{
+  "name": "followus",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake",
+  "license": "ISC",
+  "dependencies": {
+    "tencentcloud-sdk-nodejs": "^4.0.916",
+    "tencentcloud-sdk-nodejs-ocr": "^4.0.913"
+  }
+}
